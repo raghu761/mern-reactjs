@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+.heading_style{
+  font-weight: 100;
+  background-color: rgb(213, 216, 216);
+  margin: auto 0 ;
+  padding:1%;
+  text-align: center; 
+}
+.slot_inner{
+  text-align: center;
+
+}
+.slot_machine{
+  width: 500px;
+  border: 1px solid black;
+  margin: auto;
+  
+}

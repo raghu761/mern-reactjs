@@ -1,0 +1,17 @@
+body{
+  margin:  0;
+  padding: 0;
+  background-color: grey;
+}
+.make_Center{
+  text-align: center;
+}
+
+button{
+  margin: 2%;
+  padding: 2%;
+  font: 800;
+  font-size: 22px;
+  background-color: pink;
+  border: 5px solid white;
+}

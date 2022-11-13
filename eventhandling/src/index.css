@@ -1,0 +1,18 @@
+
+body{
+  background-color: green;
+  color: aliceblue;
+  margin: 0;
+  padding:  0;
+}
+button{
+  background-color:  red;
+  font-size: 50px;
+  border: 2px solid white;
+  color: white;
+
+}
+.make_center{
+  text-align: center;
+  margin-top: 25%;
+}
